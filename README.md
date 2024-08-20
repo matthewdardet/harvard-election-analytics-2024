@@ -1,6 +1,6 @@
 # Welcome! 
 
-![](national_partisan_dist.png)
+![](assets/national_partisan_dist.png)
 
 This webpage is a collection of election analytics blogs made by student forecasters in the course GOV 1347 at Harvard University (taught by Professor Ryan Enos with teaching fellow Matthew Dardet and course assistants Ethan Jasny and Yusuf Mian). 
 
