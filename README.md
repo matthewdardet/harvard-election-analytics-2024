@@ -1,4 +1,4 @@
-# Welcome! 
+# Welcome to Election Analytics 2024! 
 
 ![](assets/national_partisan_dist.png)
 
