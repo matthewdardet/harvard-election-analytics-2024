@@ -13,6 +13,6 @@ The goal of these blogs is to provide **descriptive analyses and regularly updat
 
 *Example Blogs:*
 - [Matthew's](https://www.matthewdardet.com/example-blog-jekyll/) example 2024 introductory blog made using [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll). 
-- [Ethan's](https://ethanjasny.github.io/gov1347/) and [Yusuf's](https://yusufmian2.github.io/Election-Blog/) 2022 midterm election blog sites made using [Blogdown](https://bookdown.org/yihui/blogdown/). 
+- [Ethan](https://ethanjasny.github.io/gov1347/) and [Yusuf's](https://yusufmian2.github.io/Election-Blog/) 2022 midterm election blog sites made using [Blogdown](https://bookdown.org/yihui/blogdown/). 
 
 ## [Helpful Links and Resources](./resources-links)
