@@ -20,6 +20,6 @@ permalink: /resources-links/
 # R Programming, Machine Learning, and Statistics 
 - [*R for Data Science* (Wickham, Çetinkaya-Rundel, & Grolemund, 2023)](https://r4ds.hadley.nz)
 - [*Statistical Inference via Data Science: A Modern Dive into R and the Tidyverse* (Ismay and Kim, 2020)](https://moderndive.com)
-- [*Hands-On Machine Learning with R* (Boehmke & Greenwell, 2020)](*https://bradleyboehmke.github.io/HOML/)
+- [*Hands-On Machine Learning with R* (Boehmke & Greenwell, 2020)](https://bradleyboehmke.github.io/HOML/)
 - [*An Introduction to Statistical Learning (ISL)* (James et al., 2023)](https://www.statlearning.com)
 - [*Elements of Statistical Learning (ESL)* (Hastie, Tibshirani, & Friedman, 2009)](https://hastie.su.domains/ElemStatLearn/)
