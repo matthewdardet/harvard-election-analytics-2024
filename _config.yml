@@ -1,5 +1,3 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
 logo: assets/veritas.png
 title: Election Analytics 2024 @ Harvard
-- title: "Resources and Links"
-  url: /resources-links/
