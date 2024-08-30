@@ -5,7 +5,7 @@ permalink: /resources-links/
 ---
 
 # Course-Specific Resources
-- [Google Drive](https://drive.google.com/drive/u/1/folders/0AP6KWT1qfZ-CUk9PVA) —— course videos, readings, data, and code. 
+- [Google Drive](https://drive.google.com/drive/u/1/folders/0AP6KWT1qfZ-CUk9PVA) (course videos, readings, data, and code)
 - [Syllabus](https://canvas.harvard.edu/courses/136136/files?preview=20589204)
 - [Canvas](https://canvas.harvard.edu/courses/136136)
 
@@ -24,4 +24,4 @@ permalink: /resources-links/
 - [*An Introduction to Statistical Learning (ISL)* (James et al., 2023)](https://www.statlearning.com)
 - [*Elements of Statistical Learning (ESL)* (Hastie, Tibshirani, & Friedman, 2009)](https://hastie.su.domains/ElemStatLearn/)
 
-[Return to main page.](./)
+[Return to main page.](https://www.matthewdardet.com/harvard-election-analytics-2024)
