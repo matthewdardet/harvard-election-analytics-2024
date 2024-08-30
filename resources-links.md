@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Resources and Links"
 permalink: /resources-links/
 ---
@@ -23,3 +23,5 @@ permalink: /resources-links/
 - [*Hands-On Machine Learning with R* (Boehmke & Greenwell, 2020)](https://bradleyboehmke.github.io/HOML/)
 - [*An Introduction to Statistical Learning (ISL)* (James et al., 2023)](https://www.statlearning.com)
 - [*Elements of Statistical Learning (ESL)* (Hastie, Tibshirani, & Friedman, 2009)](https://hastie.su.domains/ElemStatLearn/)
+
+[Return to main page.](./)
