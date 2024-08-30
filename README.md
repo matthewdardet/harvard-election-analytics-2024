@@ -9,4 +9,9 @@ The goal of these blogs is to provide **descriptive analyses and regularly updat
 
 ## Forecaster Blogs
 
-Forthcoming! 
+*GOV 1347 Course Blogs:*
+- Forthcoming! 
+
+*Example Blogs:*
+- [https://www.matthewdardet.com/example-blog-jekyll/posts/01-Intro.html]Matthew's) Example 2024 introductory blog made using Jekyll. 
+- [https://ethanjasny.github.io/gov1347/](Ethan's) and [https://yusufmian2.github.io/Election-Blog/](Yusuf's) 2022 midterm election blog sites made using Blogdown. 
