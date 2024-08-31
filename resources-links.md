@@ -9,11 +9,14 @@ permalink: /resources-links/
 - [Syllabus](https://canvas.harvard.edu/courses/136136/files?preview=20589204)
 - [Canvas](https://canvas.harvard.edu/courses/136136)
 
-# Other Election Prediction and Forecasting Sites
+# Other Election Prediction, Polling, and Forecasting Sites
 - [*FiveThirtyEight*](https://abcnews.go.com/538)
 - [*Silver Bulletin*](https://www.natesilver.net)
 - [*The Economist*](https://www.economist.com/interactive/us-2024-election/prediction-model/president/)
 - [*Pollyvote*](https://www.pollyvote.com)
+- [*Pew Research Election 2024*](https://www.pewresearch.org/topic/politics-policy/us-elections-voters/election-2024/)
+- [*Sienna College](https://scri.siena.edu/category/political/nyt/) [/New York Times Polling](https://www.nytimes.com/news-event/times-siena-poll-coverage)
+- [*RealClearPolitics*](https://www.realclearpolitics.com)
 
 # Online Books and Resources
 
