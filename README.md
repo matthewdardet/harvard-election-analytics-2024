@@ -9,7 +9,31 @@ The goal of these blogs is to provide **descriptive analyses and regularly updat
 ## Forecaster Blogs
 
 *GOV 1347 Course Blogs:*
-- Forthcoming! 
+- [Avi Agarwal](https://aviagarwal27.github.io/election-blog/  )
+- [Julien Berman](https://julienberman.github.io/Election-Analytics/  )
+- [Victor Bowker](https://victorbowker.github.io/election-blog/)
+- [Caroline Choi](https://carolinechoi.github.io/election-blog/)
+- [Jay Chooi](https://chojeq.com/usa-2024-election-prediction/)
+- [Nick Dominguez](https://nsdominguez.github.io/election-blog/    )
+- [Sammy Duggasani](https://sduggasani.github.io/2024election-blog/)
+- [Nilay Ersoy](https://nilay14er.github.io/election-blog/)
+- [Alex Heuss](https://aheuss59.github.io/election-blog2/)
+- [ShuXin Ho](https://shuxin-03.github.io/election-blog/)
+- [Shivali Korgaonkar](https://shivalikorgaonkar.github.io/election-blog/)
+- [John Kulow](https://johnkulow.github.io/elections-blog/)
+- [Jade Nair]()
+- [Kelly Olmos](https://kaolmos05.github.io/election-blog/)
+- [Dhati Oommen]()
+- [Jacqui Schlesinger](https://jacquirs.github.io/election-blog1/)
+- [Chris Shen](https://cys9772.github.io/election-blog4/)
+- [Mena Solomon](https://menemshasolomon.github.io/election-blog/)
+- [Cathy Stanton](https://cathystanton.github.io/election-blog/)
+- [Ella Trembanis](https://trembanis.github.io/election-blog/)
+- [Dinesh Vasireddy]()
+- [Kaitlyn Vu](https://kaitvu.github.io/election-blog/)
+- [Grant Williams](https://grantbw4.github.io/election-blog/)
+- [Chris Wright](https://chriswright25.github.io/election-blog/)
+- [Shriya Yarlagadda](https://ssyarlag.github.io/election-blog/)
 
 *Example Blogs:*
 - [Matthew's](https://www.matthewdardet.com/example-blog-jekyll/) example 2024 introductory blog made using [Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll). 
