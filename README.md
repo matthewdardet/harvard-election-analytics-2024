@@ -29,7 +29,7 @@ The goal of these blogs is to provide **descriptive analyses and regularly updat
 - [Mena Solomon](https://menemshasolomon.github.io/election-blog/)
 - [Cathy Stanton](https://cathystanton.github.io/election-blog/)
 - [Ella Trembanis](https://trembanis.github.io/election-blog/)
-- [Dinesh Vasireddy]()
+- [Dinesh Vasireddy](https://dineshteja.github.io/election-prediction/)
 - [Kaitlyn Vu](https://kaitvu.github.io/election-blog/)
 - [Grant Williams](https://grantbw4.github.io/election-blog/)
 - [Chris Wright](https://chriswright25.github.io/election-blog/)
