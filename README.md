@@ -21,7 +21,7 @@ The goal of these blogs is to provide **descriptive analyses and regularly updat
 - [ShuXin Ho](https://shuxin-03.github.io/election-blog/)
 - [Shivali Korgaonkar](https://shivalikorgaonkar.github.io/election-blog/)
 - [John Kulow](https://johnkulow.github.io/elections-blog/)
-- [Jade Nair]()
+- [Jade Nair](https://jnair37.github.io/election-blog-2/)
 - [Kelly Olmos](https://kaolmos05.github.io/election-blog/)
 - [Dhati Oommen]()
 - [Jacqui Schlesinger](https://jacquirs.github.io/election-blog1/)
