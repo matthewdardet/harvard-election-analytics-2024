@@ -8,7 +8,22 @@ The goal of these blogs is to provide **descriptive analyses and regularly updat
 
 ## Final Course Predictions 
 
-<iframe src="https://ethanjasny.shinyapps.io/1347-2024-predictions/" style="border:none;width:1000px;height:500px;"></iframe>
+html, body {
+    height:100%;
+    width:100%;
+    margin:0;
+}
+.h_iframe iframe {
+    width:100%;
+    height:100%;
+}
+.h_iframe {
+    height: 100%;
+    width:100%;
+}
+<div class="h_iframe">
+    <iframe src="https://ethanjasny.shinyapps.io/1347-2024-predictions/" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ## Forecaster Blogs
 
